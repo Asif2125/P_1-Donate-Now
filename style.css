@@ -53,21 +53,23 @@ a {
 }
 
 .donat-today h1 {
-    font-size: 2em;
+    font-size: 3em;
 }
 
 .donation-box {
     display: flex;
-    margin-top: 5%;
+    margin-top: 10%;
 }
 
 .donate-amount {
     text-align: center;
+    font-size: 2em;
     background-color: #FAFAFA;
     color: #707070;
-    height: 50px;
-    width: 135px;
-    margin: 10px 30px;
+    height: 123px;
+    width: 136px;
+    margin-left: 20px;
+    border-radius: 5px;
 }
 
 #special-amount {
@@ -80,6 +82,7 @@ a {
 
 .other-amount p {
     color: #B3B3B3;
+    margin-top: 15%;
     border-bottom: 2px solid #707070;
 }
 
@@ -90,12 +93,15 @@ a {
     width: 691px;
     height: 56px;
     margin-top: 15%;
-    margin-bottom: 5%;
+}
+
+.donation-plan h1 {
+    font-size: 3em;
 }
 
 .for-family {
     display: flex;
-
+    margin-top: 15%;
 }
 
 .for-family p {
@@ -135,7 +141,7 @@ a {
 /* contribution part*/
 .contribution-part {
     display: flex;
-    margin: 10% 8%;
+    margin: 15% 8% 10% 8%;
 
 }
 
@@ -145,13 +151,17 @@ a {
     text-align: justify;
 }
 
+.contribution-system h1 {
+    font-size: 3em;
+}
+
 .contribution-system p {
     text-align: justify;
 }
 
 .contribution-system img {
     width: 100%;
-    height: 300px;
+    height: 400px;
     margin-left: 5%;
     border-radius: 5px;
 }
@@ -161,6 +171,10 @@ a {
     text-align: center;
     width: 50%;
     margin: auto;
+}
+
+.my-update h1 {
+    font-size: 3em;
 }
 
 .query {
