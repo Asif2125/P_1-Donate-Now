@@ -141,3 +141,39 @@ a {
     margin-left: 5%;
     border-radius: 5px;
 }
+
+/* update part*/
+.my-update {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+
+.query {
+    width: 809px;
+    height: 200px;
+    background-color: #FFF4D6;
+    width: 50%;
+    margin: auto;
+
+}
+
+.email {
+    text-align: center;
+    padding-top: 100px;
+}
+
+/* footer part */
+footer {
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+    height: 100px;
+    width: 100%;
+    padding-top: 50px;
+    margin-top: 10%;
+}
+
+footer h2 {
+    color: #FF5959;
+}
