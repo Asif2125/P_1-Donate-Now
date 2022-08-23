@@ -71,4 +71,48 @@ a {
 /*donation-plan */
 .donation-plan {
     margin: auto;
+    text-align: center;
+    width: 691px;
+    height: 56px;
+    margin-top: 15%;
+    margin-bottom: 5%;
+}
+
+.for-family {
+    display: flex;
+
+}
+
+.for-family p {
+
+    text-align: justify;
+}
+
+.food-for-family {
+    background-color: #4F9DA61A;
+    margin-right: 25px;
+    margin-left: 100px;
+    padding: 20px;
+    border-radius: 5px;
+    height: 300px;
+    width: 360px;
+}
+
+.shelter-for-family {
+    background-color: #FF59591A;
+    margin-right: 25px;
+    padding: 20px;
+    border-radius: 5px;
+    height: 300px;
+    width: 360px;
+}
+
+.education-for-child {
+    background-color: moccasin;
+    margin-right: 100px;
+    padding: 20px;
+    border-radius: 5px;
+    height: 300px;
+    width: 360px;
+
 }
